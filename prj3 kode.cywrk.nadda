@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="prj3 kode\Design01\Source Files\main.c">
+<ExpandedNodeIds>
+<v>prj3 kode</v>
+<v>prj3 kode\Design01</v>
+<v>prj3 kode\Design01\TopDesign</v>
+<v>prj3 kode\Design01\Design01.cydwr</v>
+<v>prj3 kode\Design01\Design01.cydwr\Pins</v>
+<v>prj3 kode\Design01\Design01.cydwr\Analog</v>
+<v>prj3 kode\Design01\Design01.cydwr\Clocks</v>
+<v>prj3 kode\Design01\Design01.cydwr\Interrupts</v>
+<v>prj3 kode\Design01\Design01.cydwr\DMA</v>
+<v>prj3 kode\Design01\Design01.cydwr\System</v>
+<v>prj3 kode\Design01\Design01.cydwr\Directives</v>
+<v>prj3 kode\Design01\Design01.cydwr\Flash Security</v>
+<v>prj3 kode\Design01\Design01.cydwr\EEPROM</v>
+<v>prj3 kode\Design01\Header Files</v>
+<v>prj3 kode\Design01\Header Files\Helpers.h</v>
+<v>prj3 kode\Design01\Header Files\Idok.h</v>
+<v>prj3 kode\Design01\Source Files</v>
+<v>prj3 kode\Design01\Source Files\ForetagMaalinger.c</v>
+<v>prj3 kode\Design01\Source Files\Helpers.c</v>
+<v>prj3 kode\Design01\Source Files\Idok.c</v>
+<v>prj3 kode\Design01\Source Files\main.c</v>
+<v>prj3 kode\Design01\Generated_Source</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>prj3 kode</v>
+<v>prj3 kode\Design01</v>
+<v>prj3 kode\Design01\TopDesign</v>
+<v>prj3 kode\Design01\Design01.cydwr</v>
+<v>prj3 kode\Design01\Design01.cydwr\Pins</v>
+<v>prj3 kode\Design01\Design01.cydwr\Analog</v>
+<v>prj3 kode\Design01\Design01.cydwr\Clocks</v>
+<v>prj3 kode\Design01\Design01.cydwr\Interrupts</v>
+<v>prj3 kode\Design01\Design01.cydwr\DMA</v>
+<v>prj3 kode\Design01\Design01.cydwr\System</v>
+<v>prj3 kode\Design01\Design01.cydwr\Directives</v>
+<v>prj3 kode\Design01\Design01.cydwr\Flash Security</v>
+<v>prj3 kode\Design01\Design01.cydwr\EEPROM</v>
+<v>prj3 kode\Design01\Header Files</v>
+<v>prj3 kode\Design01\Header Files\Actuator.h</v>
+<v>prj3 kode\Design01\Header Files\ESP32Comm.h</v>
+<v>prj3 kode\Design01\Header Files\ForetagMaalinger.h</v>
+<v>prj3 kode\Design01\Header Files\Helpers.h</v>
+<v>prj3 kode\Design01\Header Files\Idok.h</v>
+<v>prj3 kode\Design01\Header Files\Measurements.h</v>
+<v>prj3 kode\Design01\Header Files\Onewire.h</v>
+<v>prj3 kode\Design01\Header Files\OxygenSensor.h</v>
+<v>prj3 kode\Design01\Header Files\PressureSensor.h</v>
+<v>prj3 kode\Design01\Header Files\TempSensor.h</v>
+<v>prj3 kode\Design01\Source Files</v>
+<v>prj3 kode\Design01\Source Files\Actuator.c</v>
+<v>prj3 kode\Design01\Source Files\ESP32Comm.c</v>
+<v>prj3 kode\Design01\Source Files\ForetagMaalinger.c</v>
+<v>prj3 kode\Design01\Source Files\Helpers.c</v>
+<v>prj3 kode\Design01\Source Files\Idok.c</v>
+<v>prj3 kode\Design01\Source Files\main.c</v>
+<v>prj3 kode\Design01\Source Files\Measurements.c</v>
+<v>prj3 kode\Design01\Source Files\Onewire.c</v>
+<v>prj3 kode\Design01\Source Files\OxygenSensor.c</v>
+<v>prj3 kode\Design01\Source Files\PressureSensor.c</v>
+<v>prj3 kode\Design01\Source Files\TempSensor.c</v>
+<v>prj3 kode\Design01\Generated_Source</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5\A</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5\ADC_SAR_1</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5\ADC_SAR_1_Bypass</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5\ADC_SAR_1_IRQ</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5\ADC_SAR_1_theACLK</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5\AMux_1</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5\Clock_1</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5\cy_boot</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5\fotopin</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5\isr_A</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5\ISR_WIFI</v>
+<v>prj3 kode\Design01\Generated_Source\PSoC5\Oxygen</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>prj3 kode</v>
+<v>prj3 kode\Design01</v>
+<v>prj3 kode\Design01\TopDesign</v>
+<v>prj3 kode\Design01\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>prj3 kode</v>
+<v>prj3 kode\Design01</v>
+<v>prj3 kode\Design01\TopDesign</v>
+<v>prj3 kode\Design01\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>prj3 kode</v>
+<v>prj3 kode\Design01</v>
+<v>prj3 kode\Design01\CortexM3</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\A.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Actuator.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_Bypass.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_INT.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_IRQ.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_PM.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_theACLK.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\AMux_1.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ESP32Comm.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ForetagMaalinger.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\fotopin.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Helpers.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Idok.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_A.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ISR_WIFI.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Measurements.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Oxygen.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\OxygenSensor.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_PWM.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_PWM2.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Pressure.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\PressureSensor.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_1.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_1_PM.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\redClock.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\redLight.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\tempData.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_audio.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_boot.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cdc.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cls.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_descr.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dm.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dp.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_drv.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_episr.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_hid.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_midi.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_msc.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_pm.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_std.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_vnd.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\whiteClock.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\whiteLight.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\WIFIUART.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\WIFIUART_BOOT.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\WIFIUART_INT.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\WIFIUART_IntClock.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\WIFIUART_PM.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Design01.elf</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Design01.hex</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Design01.map</v>
+<v>prj3 kode\Design01\Design01.gpdsc</v>
+<v>prj3 kode\Design01\Design01.rpt</v>
+<v>prj3 kode\Design01\Design01_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>prj3 kode</v>
+<v>prj3 kode\Design01</v>
+<v>prj3 kode\Design01\CortexM3</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\A.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Actuator.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_Bypass.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_INT.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_IRQ.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_PM.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_theACLK.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\AMux_1.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ESP32Comm.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ForetagMaalinger.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\fotopin.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Helpers.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Idok.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_A.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\ISR_WIFI.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Measurements.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Oxygen.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\OxygenSensor.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_PWM.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_PWM2.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\Pressure.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\PressureSensor.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_1.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_1_PM.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\redClock.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\redLight.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\tempData.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_audio.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_boot.lst</v>
+<v>prj3 kode\Design01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cdc.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>prj3 kode</v>
+<v>prj3 kode\Design01</v>
+<v>prj3 kode\Design01\PSoC 5LP Architecture TRM</v>
+<v>prj3 kode\Design01\CY8C58LP Family Datasheet</v>
+<v>prj3 kode\Design01\System Reference Guides</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>prj3 kode</v>
+<v>prj3 kode\Design01</v>
+<v>prj3 kode\Design01\PSoC 5LP Architecture TRM</v>
+<v>prj3 kode\Design01\CY8C58LP Family Datasheet</v>
+<v>prj3 kode\Design01\System Reference Guides</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="6c335137-fa19-46ce-bc2d-2fbeb6d5f2a2">
+<CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2 type_name="CyDesigner.Common.ProjMgmt.GUI.CyDependenciesCustomData" version="1">
+<dictName v=".\Design01.cydsn\Design01.cyprj">
+<listName />
+</dictName>
+</CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Design01.cydsn\main.c" />
+<name v=".\Design01.cydsn\ForetagMaalinger.h" />
+<name v=".\Design01.cydsn\Actuator.c" />
+<name v=".\Design01.cydsn\Measurements.c" />
+<name v=".\Design01.cydsn\Design01.cydwr" />
+<name v=".\Design01.cydsn\ForetagMaalinger.c" />
+<name v=".\Design01.cydsn\PressureSensor.h" />
+<name v=".\Design01.cydsn\TempSensor.h" />
+<name v=".\Design01.cydsn\PressureSensor.c" />
+<name v=".\Design01.cydsn\Idok.c" />
+<name v=".\Design01.cydsn\Idok.h" />
+<name v=".\Design01.cydsn\Helpers.h" />
+<name v=".\Design01.cydsn\Actuator.h" />
+<name v=".\Design01.cydsn\Onewire.h" />
+<name v=".\Design01.cydsn\TempSensor.c" />
+<name v=".\Design01.cydsn\Helpers.c" />
+<name v=".\Design01.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Design01.cydsn\ESP32Comm.c" />
+<name v=".\Design01.cydsn\ESP32Comm.h" />
+<name v=".\Design01.cydsn\Measurements.h" />
+<name v=".\Design01.cydsn\OxygenSensor.h" />
+<name v=".\Design01.cydsn\OxygenSensor.c" />
+<name v=".\Design01.cydsn\Onewire.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1411, 613" SelectedTabbedMdiWindow="785c1060-8e95-4d1e-be9b-45cbe79cf918"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="bb7a7468-75e7-491c-a33b-75b5a3d11e41" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\main.c" Guid="a418596f-8f38-4514-9f74-2d6c92fd5d3e" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\ForetagMaalinger.h" Guid="cd347ea6-925a-4870-9fa9-f72858dcccf8" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\Actuator.c" Guid="bb2ec836-1c51-437b-b12d-675f423fedb9" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\Measurements.c" Guid="6379014f-7f82-476b-b6a4-08574ead0da7" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\Design01.cydwr" Guid="5d421379-fb30-40b3-8e5c-211216708a72" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\ForetagMaalinger.c" Guid="966a9676-3473-4f80-95aa-039277ac90ea" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\PressureSensor.h" Guid="c9b109dd-7181-483f-a13a-978ac531e545" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\TempSensor.h" Guid="833cbd52-91b1-4807-be02-0b0d70a78b8d" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\PressureSensor.c" Guid="6b03e912-2bf1-4a7e-8ed1-2118e2969f21" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\Idok.c" Guid="9772b568-eacb-417b-8d0e-99eeb48f5d5e" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\Idok.h" Guid="699b9d04-d5f7-4b7a-abf7-18c1d565bb56" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\Helpers.h" Guid="a07f0680-94ce-4e40-a9f0-be1ac50559c6" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\Actuator.h" Guid="67fe1b95-b381-4f5e-be09-e08f0d40b3ee" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\Onewire.h" Guid="a1c142fa-6594-4377-91cc-1a15a35ac487" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\TempSensor.c" Guid="7f6fa97e-205c-44ef-a96a-5cf7efece1cf" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\Helpers.c" Guid="a2b1d406-27c0-411f-8d44-e95077c68a7d" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\TopDesign\TopDesign.cysch" Guid="6242be31-0ef6-4fc1-95a2-c99e01f3f818" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\ESP32Comm.c" Guid="d41db247-38bf-4abb-b3c0-f74f1de56c40" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\ESP32Comm.h" Guid="785c1060-8e95-4d1e-be9b-45cbe79cf918" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\Measurements.h" Guid="b97a54ef-ea6a-47d9-8370-c7fec0761219" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\OxygenSensor.h" Guid="0b8d3212-c334-4ba1-8ad6-be4846cca1dd" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\OxygenSensor.c" Guid="07bd59ba-3ec0-4766-88b3-5eb4429ab77a" /><DocumentWindow Key="C:\Users\nadda\Desktop\prj3 kode (2)\prj3 kode\prj3 kode\Design01.cydsn\Onewire.c" Guid="b900c5ac-88d0-4070-bbaa-057b160fd714" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
